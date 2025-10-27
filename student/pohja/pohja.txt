@@ -1,0 +1,12 @@
+//Jonatan Tevaniemi 2024.
+//jonatan.tevaniemi@tuni.fi
+//All rights reserved
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    
+}
